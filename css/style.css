@@ -1,0 +1,73 @@
+/*font-family: 'Tajawal', sans-serif;*/
+/*font-family: 'Pinyon Script', cursive;*/
+/*font-family: 'Playfair Display', serif;*/
+
+.nav {
+    background-color: #FBF4F4;
+    padding: 20px 60px;
+}
+
+.nav-item.logo {
+    font-family: 'Playfair Display', serif;  
+    color: #CF8D99;
+    text-decoration: none;
+    position: absolute;
+    left: 16px;
+}
+
+.nav-item  {
+    font-family: 'Tajawal', sans-serif;
+    color: #CF8D99;
+    font-size: 20px;
+}
+
+a.nav-item.logo {
+    color: #CF8D99;
+}
+
+a.nav-link.active {
+    color: #21383D;
+}
+
+a.nav-link.disabled {
+    color: #CF8D99;
+}
+
+.jumbotron {
+    background-color: white;
+    color: #21383D;
+}
+
+.display-4 {
+    font-family: 'Playfair Display', serif;
+}
+
+.display-7, lead {
+    font-family: 'Tajawal', sans-serif;
+}
+
+body {
+    background-color: #FBF4F4;
+}
+
+.card {
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px;}
+
+
+.card-text {
+    font-family: 'Tajawal', sans-serif;
+    font-size: 28px;
+    margin-left: 100px;
+    color: #21383D;
+}
+
+footer {
+    background:#CF8D99;
+    height: 90px;
+    width: 100%;
+    display: flex;
+    position: absolute;
+    margin-top: 50px;
+}
